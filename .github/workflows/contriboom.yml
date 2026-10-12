@@ -71,11 +71,11 @@ jobs:
           # theme: Default: github. Choices:
           # github, light, dark, ocean, sakura, cyberpunk, sunset, nord,
           # mocha, mint, sky, lavender, peach, sand, rose.
-          # theme: github
+          theme: sakura
 
           # player-icon: Image path inside the repository. Default: empty (the built-in robot).
           # Supports PNG / JPEG / GIF / WebP / SVG, up to 2 MiB.
-          # player-icon: assets/bomber.png
+          player-icon: images/bomber.png
           # player-icon-trim: auto | none. Default: auto. Applies only to custom player images.
           # auto: Trims transparent or near-white margins; none: Preserves the entire canvas.
           # player-icon-trim: auto
