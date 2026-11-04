@@ -391,7 +391,7 @@
 <path d="M31 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="1,5"><title>2025-11-14: 7 contributions</title>
-<rect x="28" y="116" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="28" y="116" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M31 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="1,6"><title>2025-11-15: 1 contributions</title>
@@ -475,7 +475,7 @@
 <path d="M251 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="12,2"><title>2026-01-27: 6 contributions</title>
-<rect x="270" y="50" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="270" y="50" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M273 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="14,1"><title>2026-02-09: 2 contributions</title>
@@ -495,11 +495,11 @@
 <path d="M317 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="14,5"><title>2026-02-13: 9 contributions</title>
-<rect x="314" y="116" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="314" y="116" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M317 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="14,6"><title>2026-02-14: 7 contributions</title>
-<rect x="314" y="138" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="314" y="138" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M317 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="15,0"><title>2026-02-15: 2 contributions</title>
@@ -527,7 +527,7 @@
 <path d="M361 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="17,1"><title>2026-03-02: 8 contributions</title>
-<rect x="380" y="28" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="380" y="28" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M383 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="17,3"><title>2026-03-04: 4 contributions</title>
@@ -551,7 +551,7 @@
 <path d="M405 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="18,3"><title>2026-03-11: 6 contributions</title>
-<rect x="402" y="72" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="402" y="72" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M405 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="18,4"><title>2026-03-12: 1 contributions</title>
@@ -571,15 +571,15 @@
 <path d="M427 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="19,3"><title>2026-03-18: 6 contributions</title>
-<rect x="424" y="72" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="424" y="72" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M427 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="19,4"><title>2026-03-19: 16 contributions</title>
-<rect x="424" y="94" width="20" height="20" rx="3" fill="#8C2F5C"/>
+<rect x="424" y="94" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M427 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="19,5"><title>2026-03-20: 24 contributions</title>
-<rect x="424" y="116" width="20" height="20" rx="3" fill="#8C2F5C"/>
+<rect x="424" y="116" width="20" height="20" rx="3" fill="#BF5386"/>
 <path d="M427 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="20,5"><title>2026-03-27: 1 contributions</title>
@@ -599,11 +599,11 @@
 <path d="M515 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="23,2"><title>2026-04-14: 11 contributions</title>
-<rect x="512" y="50" width="20" height="20" rx="3" fill="#BF5386"/>
+<rect x="512" y="50" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M515 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="23,3"><title>2026-04-15: 8 contributions</title>
-<rect x="512" y="72" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="512" y="72" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M515 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="23,4"><title>2026-04-16: 1 contributions</title>
@@ -691,15 +691,15 @@
 <path d="M647 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="29,2"><title>2026-05-26: 12 contributions</title>
-<rect x="644" y="50" width="20" height="20" rx="3" fill="#BF5386"/>
+<rect x="644" y="50" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M647 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="29,3"><title>2026-05-27: 16 contributions</title>
-<rect x="644" y="72" width="20" height="20" rx="3" fill="#8C2F5C"/>
+<rect x="644" y="72" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M647 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="29,4"><title>2026-05-28: 6 contributions</title>
-<rect x="644" y="94" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="644" y="94" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M647 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="30,1"><title>2026-06-01: 4 contributions</title>
@@ -763,7 +763,7 @@
 <path d="M779 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="35,2"><title>2026-07-07: 15 contributions</title>
-<rect x="776" y="50" width="20" height="20" rx="3" fill="#BF5386"/>
+<rect x="776" y="50" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M779 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="35,4"><title>2026-07-09: 1 contributions</title>
@@ -799,11 +799,11 @@
 <path d="M823 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="37,3"><title>2026-07-22: 7 contributions</title>
-<rect x="820" y="72" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="820" y="72" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M823 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="37,4"><title>2026-07-23: 8 contributions</title>
-<rect x="820" y="94" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="820" y="94" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M823 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="38,1"><title>2026-07-27: 1 contributions</title>
@@ -851,7 +851,7 @@
 <path d="M911 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="41,5"><title>2026-08-21: 8 contributions</title>
-<rect x="908" y="116" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="908" y="116" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M911 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="42,1"><title>2026-08-24: 4 contributions</title>
@@ -859,7 +859,7 @@
 <path d="M933 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="42,2"><title>2026-08-25: 18 contributions</title>
-<rect x="930" y="50" width="20" height="20" rx="3" fill="#8C2F5C"/>
+<rect x="930" y="50" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M933 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="42,4"><title>2026-08-27: 3 contributions</title>
@@ -871,15 +871,15 @@
 <path d="M955 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="48,6"><title>2026-10-10: 6 contributions</title>
-<rect x="1062" y="138" width="20" height="20" rx="3" fill="#DB8BAE"/>
+<rect x="1062" y="138" width="20" height="20" rx="3" fill="#EBC0D1"/>
 <path d="M1065 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="49,0"><title>2026-10-11: 12 contributions</title>
-<rect x="1084" y="6" width="20" height="20" rx="3" fill="#BF5386"/>
+<rect x="1084" y="6" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M1087 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="49,1"><title>2026-10-12: 12 contributions</title>
-<rect x="1084" y="28" width="20" height="20" rx="3" fill="#BF5386"/>
+<rect x="1084" y="28" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M1087 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="49,2"><title>2026-10-13: 1 contributions</title>
@@ -891,16 +891,20 @@
 <path d="M1087 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="52,0"><title>2026-11-01: 13 contributions</title>
-<rect x="1150" y="6" width="20" height="20" rx="3" fill="#BF5386"/>
+<rect x="1150" y="6" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M1153 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="52,1"><title>2026-11-02: 13 contributions</title>
-<rect x="1150" y="28" width="20" height="20" rx="3" fill="#BF5386"/>
+<rect x="1150" y="28" width="20" height="20" rx="3" fill="#DB8BAE"/>
 <path d="M1153 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="52,2"><title>2026-11-03: 20 contributions</title>
+<g data-cell="52,2"><title>2026-11-03: 39 contributions</title>
 <rect x="1150" y="50" width="20" height="20" rx="3" fill="#8C2F5C"/>
 <path d="M1153 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,3"><title>2026-11-04: 28 contributions</title>
+<rect x="1150" y="72" width="20" height="20" rx="3" fill="#BF5386"/>
+<path d="M1153 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 </g>
 </svg>
