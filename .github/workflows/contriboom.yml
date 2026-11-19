@@ -71,7 +71,7 @@ jobs:
           # theme: Default: github. Choices:
           # github, light, dark, ocean, sakura, cyberpunk, sunset, nord,
           # mocha, mint, sky, lavender, peach, sand, rose.
-          theme: sakura
+          theme: light
 
           # player-icon: Image path inside the repository. Default: empty (the built-in robot).
           # Supports PNG / JPEG / GIF / WebP / SVG, up to 2 MiB.
