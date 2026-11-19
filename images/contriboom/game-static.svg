@@ -434,7 +434,7 @@
 <rect x="182" y="94" width="20" height="20" rx="3" fill="#c5e6ad"/>
 <path d="M185 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="8,5"><title>2026-01-16: 5 contributions</title>
+<g data-cell="8,5"><title>2026-01-16: 4 contributions</title>
 <rect x="182" y="116" width="20" height="20" rx="3" fill="#c5e6ad"/>
 <path d="M185 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
@@ -770,11 +770,7 @@
 <rect x="776" y="28" width="20" height="20" rx="3" fill="#8fc56c"/>
 <path d="M779 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="35,2"><title>2026-07-21: 1 contributions</title>
-<rect x="776" y="50" width="20" height="20" rx="3" fill="#c5e6ad"/>
-<path d="M779 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
-</g>
-<g data-cell="35,3"><title>2026-07-22: 7 contributions</title>
+<g data-cell="35,3"><title>2026-07-22: 6 contributions</title>
 <rect x="776" y="72" width="20" height="20" rx="3" fill="#8fc56c"/>
 <path d="M779 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
@@ -806,7 +802,7 @@
 <rect x="820" y="94" width="20" height="20" rx="3" fill="#c5e6ad"/>
 <path d="M823 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="37,5"><title>2026-08-07: 4 contributions</title>
+<g data-cell="37,5"><title>2026-08-07: 3 contributions</title>
 <rect x="820" y="116" width="20" height="20" rx="3" fill="#c5e6ad"/>
 <path d="M823 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
